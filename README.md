@@ -1,6 +1,6 @@
 # 🎭 MemeHub — Générateur de Mèmes
 
-> Mini-projet d'admission B.Eng.3
+> Mini-projet
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)
